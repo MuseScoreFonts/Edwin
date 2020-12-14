@@ -1,10 +1,10 @@
-# Edwin, Version 1.00
+# Edwin, Version 0.5
 
-This repository contains the Edwin font family, Version 1.00**, released in 2020 and available under AGPL. 
+This repository contains the Edwin font family, Version 0.5**, released in 2020 and available under AGPL. 
 
 ## About the fonts
 
-* Edwin (Roman, Italic, Bold & Bold-Italic), Version 1.0 are available in Type 1, OpenType-CFF format.  
+* Edwin (Roman, Italic, Bold & Bold-Italic), Version 0.5 are available in Type 1, OpenType-CFF format.  
 
 * The Edwin font family, Version 1.0 is distributed under the [GNU Affero General Public License, Version 3](./COPYING)). If you extend or modify the fonts, you may release your modified versions under the same license. Please consult the [LICENSE](./LICENSE.md) document for the text of the license. Please note that the license applies only to the original Version 1.0 fonts, as released by MuseScore BVBA. 
 
