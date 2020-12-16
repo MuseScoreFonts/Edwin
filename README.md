@@ -1,6 +1,6 @@
-# Edwin, Version 0.5
+# Edwin Text Font
 
-This repository contains the **Edwin font family**, Version 0.5, released in 2020 and available under AGPL. 
+This repository contains the **Edwin font family**, Version 0.5, released in 2020 and available under AGPL.
 
 ## About the fonts
 
@@ -17,6 +17,8 @@ In **2016**, URW++ released a **major Version 2.0** upgrade to the Core 35 fonts
 In **2017**, URW++ additionally released the same Version 2.0 fonts under the LaTeX Project Public License ([LPPL](./LICENSE.LPPL)) Version 1.3c, and under the SIL OpenFont License ([OFL](./LICENSE.OFL)), Version 1.1, without a "Reserved Font Name" clause. 
 
 In **2020**, MuseScore BVBA released the Edwin font family, a renamed version of the **C059** font family (Roman, Italic, Bold & Bold-Italic) from the **Core 35** font set. This was done in order to make modifications that suit the requirements of the open source notation software, **MuseScore**. MuseScore released Edwin under the GNU Affero General Public License, Version 3 ([AGPL](./COPYING))
+
+The font is named after [Edwin Ginn](https://en.wikipedia.org/wiki/Edwin_Ginn), who founded Ginn & Company, the publisher which commissioned the original New Century Schoolbook in 1918.
 
 ## About MuseScore BVBA
 
