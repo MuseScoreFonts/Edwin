@@ -1,4 +1,4 @@
-# License information for Edwin, Version 1.00
+# License information for Edwin, Version 0.50
 
 The fonts and related files in this directory are distributed under the following licenses:
 
