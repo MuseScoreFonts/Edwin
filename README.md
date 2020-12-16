@@ -1,6 +1,6 @@
 # Edwin, Version 0.5
 
-This repository contains the Edwin font family, Version 0.5**, released in 2020 and available under AGPL. 
+This repository contains the **Edwin font family**, Version 0.5, released in 2020 and available under AGPL. 
 
 ## About the fonts
 
@@ -24,6 +24,6 @@ MuseScore BVBA is a music software company that creates music notation software,
 
 ## Links
 
-http://www.musescore.org/
+http://www.musescore.org/  
 http://www.musescore.com/
 
