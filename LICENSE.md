@@ -2,7 +2,7 @@
 
 The fonts and related files in this directory are distributed under the following licenses:
 
-* [GNU Affero General Public License, Version 3](./COPYING) with an [exemption](./LICENSE)
+* [GNU Affero General Public License, Version 3](./COPYING.txt) with an [exemption](./LICENSE.txt)
 
 Copyright © 2020, MuseScore, BVBA (http://www.musescore.org/)
 
