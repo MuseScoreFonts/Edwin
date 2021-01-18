@@ -1,12 +1,12 @@
-# Edwin Text Font
+# Edwin, Version 0.5
 
-This repository contains the **Edwin font family**, Version 0.5, released in 2020 and available under AGPL.
+This repository contains the **Edwin font family, Version 0.5**, released in 2020 and available under the SIL Open Font License. 
 
 ## About the fonts
 
 * Edwin (Roman, Italic, Bold & Bold-Italic), Version 0.5 are available in Type 1, OpenType-CFF format.  
 
-* The Edwin font family, Version 1.0 is distributed under the [GNU Affero General Public License, Version 3](./COPYING)). If you extend or modify the fonts, you may release your modified versions under the same license. Please consult the [LICENSE](./LICENSE.md) document for the text of the license. Please note that the license applies only to the original Version 1.0 fonts, as released by MuseScore BVBA. 
+* The Edwin font family, Version 0.5 is distributed under the [SIL Open Font License, Version 1.1](./LICENSE.OFL).
 
 ## History
 
@@ -16,9 +16,7 @@ In **2016**, URW++ released a **major Version 2.0** upgrade to the Core 35 fonts
 
 In **2017**, URW++ additionally released the same Version 2.0 fonts under the LaTeX Project Public License ([LPPL](./LICENSE.LPPL)) Version 1.3c, and under the SIL OpenFont License ([OFL](./LICENSE.OFL)), Version 1.1, without a "Reserved Font Name" clause. 
 
-In **2020**, MuseScore BVBA released the Edwin font family, a renamed version of the **C059** font family (Roman, Italic, Bold & Bold-Italic) from the **Core 35** font set. This was done in order to make modifications that suit the requirements of the open source notation software, **MuseScore**. MuseScore released Edwin under the GNU Affero General Public License, Version 3 ([AGPL](./COPYING))
-
-The font is named after [Edwin Ginn](https://en.wikipedia.org/wiki/Edwin_Ginn), who founded Ginn & Company, the publisher which commissioned the original New Century Schoolbook in 1918.
+In **2020**, MuseScore BVBA released the Edwin font family, a renamed version of the **C059** font family (Roman, Italic, Bold & Bold-Italic) from the **Core 35** font set. This was done in order to make modifications that suit the requirements of the open source notation software, **MuseScore**. They released it under the under the SIL OpenFont License ([OFL](./LICENSE.OFL)) only.
 
 ## About MuseScore BVBA
 
